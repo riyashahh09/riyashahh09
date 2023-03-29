@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Riya
 - 👀 I’m interested in opportunities in the field of biotechnology
-- 🌱 I’m currently learning the foundations of bioinformatics at University of Southern California
+- 🌱 I’m currently learning bioinformatics at University of Southern California
 - 📫 You can reach me at rdshah@usc.edu
 
 <!---
